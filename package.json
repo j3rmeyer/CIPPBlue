@@ -1,7 +1,7 @@
 {
   "name": "cipp",
   "version": "2.6.1",
-  "description": "The CyberDrain Improved Partner Portal is a portal to help manage administration for Microsoft Partners.",
+  "description": "The Blue Identity management portal to administer multiple Microsoft 365 tenants",
   "homepage": "https://cipp.app/",
   "bugs": {
     "url": "https://github.com/KelvinTegelaar/CIPP/issues"

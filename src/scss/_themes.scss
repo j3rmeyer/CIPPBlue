@@ -1,8 +1,8 @@
 :root {
   // CyberDrain variables.
   //// If you want to change these variables please also update the _variables.scss file.
-  --cyberdrain-primary: #00b3d7; // Orange
-  --cyberdrain-primary-rgb: #00b3d7; // Orange
+  --cyberdrain-primary: #00b3d7; // Blue
+  --cyberdrain-primary-rgb: #00b3d7; // Blue
   --cyberdrain-secondary: #00b3d7; // Prussian Blue
   --cyberdrain-secondary-rgb: rgb(0 48 73); // Prussian Blue
   --cyberdrain-lighter: #fff; // White
@@ -25,15 +25,15 @@
   --cyberdrain-info-rgb: rgb(0 150 216); // Carolina Blue
   --cyberdrain-warning: #bf7f00; // Dark Goldenrod
   --cyberdrain-warning-rgb: rgb(191 127 0); // Dark Goldenrod
-  --cyberdrain-danger: #eb603d; // Orange Soda
-  --cyberdrain-danger-rgb: rgb(235 96 61); // Orange Soda
+  --cyberdrain-danger: #f57c00; // Orange Soda
+  --cyberdrain-danger-rgb: #f57c00; // Orange Soda
   // Core UI theme-independent variables.
-  --cui-blue: #0d6efd;
+  --cui-blue: #00b3d7;
   --cui-indigo: #6610f2;
   --cui-purple: #6f42c1;
   --cui-pink: #d63384;
   --cui-red: #dc3545;
-  --cui-orange: #fd7e14;
+  --cui-orange: #f57c00;
   --cui-yellow: #ffc107;
   --cui-green: #198754;
   --cui-teal: #20c997;

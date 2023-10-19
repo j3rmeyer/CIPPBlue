@@ -7,7 +7,7 @@
 
 // scss-docs-start gray-color-variables
 // $white:     #fff !default;
-// $gray-base: #3c4b64 !default;
+ $gray-base: #323a45 !default;
 // $gray-100:  #ebedef !default;
 // $gray-200:  #d8dbe0 !default;
 // $gray-300:  #c4c9d0 !default;
@@ -76,8 +76,8 @@
 // scss-docs-end colors-map
 
 // fusv-disable
-$primary-dark: rgb(226, 92, 9) !default;
-$primary-base: rgba(247, 127, 0) !default;
+$primary-dark: #f57c00 !default;
+$primary-base: #f57c00 !default;
 $primary-50: rgba(247, 128, 0, 0.514) !default;
 $primary-25: rgba(247, 128, 0, 0.219) !default;
 
@@ -86,7 +86,7 @@ $secondary-base: rgba(0, 48, 73) !default;
 $secondary-50: rgba(0, 47, 73, 0.479) !default;
 $secondary-25: rgba(0, 47, 73, 0.205) !default;
 
-$link-color: rgb(226, 92, 9) !default;
+$link-color: #f57c00 !default;
 $link-decoration: underline !default;
 $link-shade-percentage: 20% !default;
 $link-hover-color: shift-color($link-color, $link-shade-percentage) !default;

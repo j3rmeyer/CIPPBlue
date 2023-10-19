@@ -16,8 +16,8 @@ import {
 } from '@coreui/react'
 import { AppHeaderSearch } from 'src/components/header'
 import { TenantSelector } from '../utilities'
-import cyberdrainlogolight from 'src/assets/images/CIPP.png'
-import cyberdrainlogodark from 'src/assets/images/CIPP_Dark.png'
+import cyberdrainlogolight from 'src/assets/images/Blue.png'
+import cyberdrainlogodark from 'src/assets/images/Bluewhite'
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCaretSquareLeft, faCaretSquareRight } from '@fortawesome/free-solid-svg-icons'
